@@ -1,0 +1,4 @@
+﻿0*Ivanov *Ivan *Ivanovich *professor*100*24*
+1*Petrov *Petro *Petrovich *electric* 3500*
+0*Koval *Ivan*Petrovich*docent*80*40*
+1*Sidorov *Sidor*Ivanovoch *metodist*5000*
